@@ -1,6 +1,6 @@
 # Biscoito da Sorte - Desafio Stage 05 
 
-"Biscoito da Sorte", um projeto com animações donde treinamos a estrutura de dados em html, funções e manipulação da DOM.
+"Biscoito da Sorte", um projeto com animações onde treinamos a estrutura de dados em html, funções e manipulação da DOM.
 
 > Biscoito da Sorte - Desafio Stage 05 
 
